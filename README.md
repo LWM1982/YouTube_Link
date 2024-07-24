@@ -1,3 +1,3 @@
 # YouTube_Link
 YouTube_Personal_Statement 
-https://youtu.be/JcE8oqyFfg8
+[![YouTube_Link](https://img.youtube.com/vi/JcE8oqyFfg8/0.jpg)](https://www.youtube.com/watch?v=JcE8oqyFfg8)
